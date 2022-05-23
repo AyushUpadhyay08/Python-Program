@@ -1,0 +1,6 @@
+# write a Python Script to merge two Python Dictionary.
+
+a={1:"Python",2:"C++",3:"C#"}
+b={4:"Java",6:"HTML",7:"JavaScript"}
+a.update(b)
+print(a)
