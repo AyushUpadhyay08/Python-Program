@@ -1,0 +1,6 @@
+# Write a python program to remove a key from  Dictionary.
+
+a=eval(input())
+b=eval(input("Enter the key you want to delete."))
+a.pop(b)
+print(a)
