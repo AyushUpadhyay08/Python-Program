@@ -1,0 +1,7 @@
+# Write a python function to accept a dictionary and display its elements.
+
+def fun(d):
+  for i, j in d.items():
+    print(i,--,j)
+d=eval(input())
+fun(d)
