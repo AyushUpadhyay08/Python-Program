@@ -1,6 +1,6 @@
 # Write a Python Program to create dictionary that does not change the order of elements.
 
-import Collections
+import collections
 d=OrderedDict()
 d=eval(input())
 for i,j in d.items():
